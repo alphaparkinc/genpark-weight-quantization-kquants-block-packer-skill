@@ -1,0 +1,12 @@
+{
+  "name": "genpark-weight-quantization-kquants-block-packer-skill",
+  "version": "1.0.0",
+  "description": "Simulates k-quants block compression (Q4_K_M, Q8_0) packing FP16 weights into quantized blocks with scale factors.",
+  "category": "Edge AI Quantization & Model Sharding",
+  "runtime": "python3",
+  "entrypoint": "client.py",
+  "author": "GenPark AI",
+  "repository": "https://github.com/alphaparkinc/genpark-weight-quantization-kquants-block-packer-skill",
+  "verified": true,
+  "stars": 8
+}
